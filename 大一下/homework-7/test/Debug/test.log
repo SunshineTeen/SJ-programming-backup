@@ -1,0 +1,4 @@
+﻿  16172-070107-W0602.附件 C++方式改变文件大小的示例程序.cpp
+e:\高程\大一下\homework-7\test\16172-070107-w0602.附件 c++方式改变文件大小的示例程序.cpp(13): warning C4101: “buf”: 未引用的局部变量
+  test.vcxproj -> E:\高程\大一下\homework-7\Debug\test.exe
+  test.vcxproj -> E:\高程\大一下\homework-7\Debug\test.pdb (Partial PDB)
